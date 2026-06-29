@@ -1,4 +1,4 @@
-# 
+# Top StarCoder 2 scripts. Com pipelines de dados e processamento de baixa latência — otimizado para máximo desempenho e eficiência.
 
 
 
